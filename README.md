@@ -34,7 +34,7 @@ product-inventory-api/
 1️⃣ Prerequisites
 
 Make sure you have installed:
-✅ Java 17+
+✅ Java 17+ ( or more )
 ✅ Maven
 ✅ MySQL Server
 2️⃣ Clone the Repository
